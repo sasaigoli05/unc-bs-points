@@ -15,3 +15,9 @@ Compute **total points** for each member from a single Excel workbook and write 
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Usage
+```
+cd unc-bs-points
+python sangeet_points.py "../your data spreadsheet.xlsx"
+```
